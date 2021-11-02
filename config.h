@@ -1,7 +1,7 @@
 #ifndef CONFIG_H
 #define CONFIG_H
 
-#include "knxnet.h"
+#include "libknxnet/knxnet.h"
 #include <thread>
 
 namespace knxnet {
